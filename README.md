@@ -1,1 +1,1 @@
-# Ethnus_MERN_FS_Intern_Task
+# Ethnus_intern_task
